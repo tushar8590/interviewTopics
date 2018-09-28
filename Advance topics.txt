@@ -1,0 +1,7 @@
+Scalability
+Centralized and Distributed cache
+Zookeeper
+Elastic search
+Distributed computing
+Network securing in webapps
+Microservices architecture and deployment topology
